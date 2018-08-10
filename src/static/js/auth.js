@@ -1,7 +1,7 @@
 var OKTA_SETTINGS = {
   baseUrl: "https://dev-944849.oktapreview.com/",
   clientId: "0oafwras1yCrkZcFl0h7",
-  issuer: "https://dev-944849.oktapreview.com/oauth2/default"
+  issuer: "https://dev-944849.oktapreview.com/"
 };
 
 var okta = new OktaSignIn({
